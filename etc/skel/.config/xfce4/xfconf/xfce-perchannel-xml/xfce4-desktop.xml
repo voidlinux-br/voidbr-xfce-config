@@ -10,7 +10,7 @@
           <property name="image-path" type="string" value="/usr/share/backgrounds/voidbr/voidbr-wallpaper.avif"/>
           <property name="last-image" type="string" value="/usr/share/backgrounds/voidbr/voidbr-wallpaper.avif"/>
           <property name="backdrop-cycle-enable" type="bool" value="true"/>
-          <property name="backdrop-cycle-timer" type="uint" value="1"/>
+          <property name="backdrop-cycle-timer" type="uint" value="5"/>
           <property name="backdrop-cycle-random-order" type="bool" value="true"/>
         </property>
         <property name="workspace1" type="empty">
